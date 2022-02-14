@@ -12,6 +12,7 @@
         <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.11458333333333333" />
         <entry key="app/src/main/res/drawable/ic_person.xml" value="0.16574074074074074" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.15555555555555556" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19322916666666667" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.1" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fire_item_row.xml" value="0.1712962962962963" />

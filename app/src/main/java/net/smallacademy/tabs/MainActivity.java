@@ -83,7 +83,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         pager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(mTabLayout));
 
     }
-
     // whene click on menu in nav bar
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
